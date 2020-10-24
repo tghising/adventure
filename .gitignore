@@ -24,6 +24,7 @@ hs_err_pid*
 
 # production
 /build
+/out
 
 # misc
 .DS_Store
