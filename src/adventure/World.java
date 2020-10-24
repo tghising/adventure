@@ -18,7 +18,7 @@ public class World {
 
     private Room current;   //keeps track of the user’s current location
 
-    // Derby DB url, username, and passsword
+    // Derby DB url, username, and password
     static final String DATABASE_URL = "jdbc:derby://localhost:1527/adventure";
     static final String USER_NAME = "root";
     static final String USER_PASSWORD = "root";
